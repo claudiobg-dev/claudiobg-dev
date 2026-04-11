@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Cláudio!
 - 🎓 Estudante de Desenvolvimento de Sistemas
-- 💻 Focado em Python, HTML e CSS
+- 💻 Focado em Visual Studio Code, Python, HTML e CSS
 - 🚀 Preparando-se para o mercado de tecnologia
 
 
